@@ -2,8 +2,8 @@
 
 Data structure and Algorithm using Java
 
-## Explanations
-- [English](/Day%201/FirstProgram.java)
+## Explanations using java
+- [first java program](/Day%201/FirstProgram.java)
 
 ## Contribution Guidelines
 
