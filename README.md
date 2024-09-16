@@ -15,11 +15,11 @@ Data structure and Algorithm using Java
 **Folder Structure**
 
 ```bash
-problem-name\
-| - README.md
+problem-name
 | - all folders through Day whise     
 | - open any folder 
-    | - folder_name.java
+| - problem_name.java
+    | - file_name.java
 ```
 
 - **java**: `Day_and_file_name.java`
