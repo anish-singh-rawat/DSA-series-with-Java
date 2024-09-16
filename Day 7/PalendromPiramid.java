@@ -16,5 +16,6 @@ public class PalendromPiramid {
 
     public static void main(String[] args) {
         printPalendromPiramid(5);
+        System.err.println();
     }
 }
