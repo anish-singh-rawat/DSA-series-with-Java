@@ -3,6 +3,7 @@
 Data structure and Algorithm using Java
 
 ## Explanations using java
+
 - [first java program](/Day%201/FirstProgram.java)
 
 ## Contribution Guidelines
@@ -20,7 +21,6 @@ problem-name\
 | - open any folder 
     | - folder_name.java
 ```
-
 
 - **java**: `Day_and_file_name.java`
 
