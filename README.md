@@ -23,78 +23,19 @@ problem-name\
     | - folder_name.java
 ```
 
-#### `README.md` Specification / Template
 
-````markdown
-# <Title of the Problem>
-
-< description of the problem >
-
-## Prerequisites
-
-- prerequisite library or package
-- [prerequisite library](https://www.example.com/link-to-official-library)
-
-## Instructions
-
-- instructions to run the project
-- < Simple and reproducible commands to execute the project >
-  ```bash
-   make # or 'cargo run', or 'dotnet run' or 'mvn exec:java' etc.
-  ```
-
-## Test Cases & Output < if exists>
-
-< If you can provide test cases, describe it here, else remove this section >
-````
-
-#### `.gitignore` File
-
-```gitignore
-# add all output files and build files to be excluded from git tracking
-main     # executable file also must have the project name
-target/  # the build file, for example for rust
-```
-
-#### Build File / Specification File / Configuration File
-
-It can be any of the following ones
-
-- **C/C++**: `Makefile`
-- **Python**: `requirements.txt`
-- **JavaScript**: `package.json` and `package-lock.json`
-- **Rust**: `Cargo.toml` and `Cargo.lock`
-- **Go**: `go.mod`
+- **java**: `Day_and_file_name.java`
 
 #### Source Code File
 
-The source code files should either be in `src/` folder (**Eg.** `src/main.cpp` or `src/main.js`) or the root folder (**Eg.** `palindrome.go` or `App.java`) where `ext` is the file extension for the specific programming language.
+The source code files should either be inside the folder (**Eg.** `Day/file.java`).
 
 Again, the source codes must conform to a valid file structure convention that the programming language enforces.
 
 ### 2. Naming Convention
 
-The programming should keep the naming convention rule of each programming language.
+The programming is  java the naming convention rule of programming language.
 
-### Other topic
+## Programming Language 
 
-- [First-time contribution](CONTRIBUTING.md)
-
-## Reviewers
-
-| Programming Language | Users                                                       |
 | Java                 | @TawfikYasser, @aayushjain7, @mohitchakraverty              |
-
-## Contributors
-
-<a href="https://github.com/MakeContributions/DSA/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MakeContributions/DSA" />
-</a>
-
-## Open Graph
-
-<img src="https://opengraph.github.com/3b128f0e88464a82a37f2daefd7d594c6f41a3c22b3bf94c0c030135039b5dd7/MakeContributions/DSA" />
-
-## License
-
-[MIT](./LICENSE)
