@@ -3,7 +3,7 @@
 Data structure and Algorithm using Java
 
 ## Explanations
-- [English](./Day1)
+- [English](/Day%201/FirstProgram.java)
 
 ## Contribution Guidelines
 
