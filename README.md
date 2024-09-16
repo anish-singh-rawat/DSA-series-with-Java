@@ -1,16 +1,14 @@
 # Data Structures and Algorithm
 
-Data structure and Algorithm (DSA) use Java
+Data structure and Algorithm using Java
 
 ## Explanations
-- [English](./docs/en)
+- [English](./Day1)
 
 ## Contribution Guidelines
 
-**If you have a problem that belongs to a new _topic_ or _category_ than one which are present:**
-
 1. i have Create a new folder and an folder_name.java for it inside.
-2. To each new file, i write the code for resolving DSA `problem`.
+2. To each new file, i write the code for solving DSA `problem`.
 3. The folder name can also only contain **lowercase characters** and **dashes** or **hyphens** (`-`) (Eg. `strings` `sorting` etc.)
 
 **Folder Structure**
