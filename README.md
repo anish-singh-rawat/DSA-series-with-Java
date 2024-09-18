@@ -36,4 +36,4 @@ The programming is  java the naming convention rule of programming language.
 
 ## Programming Language 
 
-| Java                 | @TawfikYasser, @aayushjain7, @mohitchakraverty              |
+| Java      | @anishsinghrawat1, @anishsinghqb, |
